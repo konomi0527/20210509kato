@@ -1,0 +1,20 @@
+h1 {
+  color: rgb(3, 50, 150);
+  font-size: 30px;
+}
+.sample {
+  color: rgb(3, 50, 150);
+  font-size: 20px;
+  text-align: right;
+  font-weight: bold;
+}
+p {
+  font-size: 50px;
+}
+.boxsizing {
+  width: 1000px;
+  height: 150px;
+  background-color: rgb(8, 8, 108);
+  border: 20px solid rgb(8, 8, 108);
+  margin-right: auto;
+}
